@@ -1,0 +1,22 @@
+#numberTwo{
+    color: blue;
+    font-size: 36px;
+}
+
+.numberOne,
+.numberThree,
+.numberFive{
+    background: rgb(230, 120, 120);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+.numberThree{
+    font-size: 24px;
+}
+
+#numberFour{
+    background: rgb(71, 221, 141);
+    font-size: 24px;
+    font-weight: bold;
+}
